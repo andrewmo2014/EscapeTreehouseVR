@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: e161478201132bf42b92c915d3acd850
+timeCreated: 1468472166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Bottom
+    100004: Button
+    100006: Drawer
+    100008: Drawer_-_back
+    100010: Drawer_-_bottom
+    100012: Drawer_-_front
+    100014: Drawer_-_side
+    100016: Drawer_-_side 1
+    100018: End
+    100020: End 1
+    100022: Face_Rail
+    100024: Handle
+    100026: ID182
+    100028: ID204
+    100030: ID59
+    100032: ID67
+    100034: ID85
+    100036: ID93
+    100038: instance_0
+    100040: instance_1
+    100042: instance_10
+    100044: instance_11
+    100046: instance_12
+    100048: instance_13
+    100050: instance_2
+    100052: instance_3
+    100054: instance_4
+    100056: instance_5
+    100058: instance_6
+    100060: instance_7
+    100062: instance_8
+    100064: instance_9
+    100066: //RootNode
+    100068: Shelf
+    400000: Back
+    400002: Bottom
+    400004: Button
+    400006: Drawer
+    400008: Drawer_-_back
+    400010: Drawer_-_bottom
+    400012: Drawer_-_front
+    400014: Drawer_-_side
+    400016: Drawer_-_side 1
+    400018: End
+    400020: End 1
+    400022: Face_Rail
+    400024: Handle
+    400026: ID182
+    400028: ID204
+    400030: ID59
+    400032: ID67
+    400034: ID85
+    400036: ID93
+    400038: instance_0
+    400040: instance_1
+    400042: instance_10
+    400044: instance_11
+    400046: instance_12
+    400048: instance_13
+    400050: instance_2
+    400052: instance_3
+    400054: instance_4
+    400056: instance_5
+    400058: instance_6
+    400060: instance_7
+    400062: instance_8
+    400064: instance_9
+    400066: //RootNode
+    400068: Shelf
+    2300000: Back
+    2300002: Bottom
+    2300004: Button
+    2300006: Drawer_-_back
+    2300008: Drawer_-_bottom
+    2300010: Drawer_-_front
+    2300012: Drawer_-_side
+    2300014: Drawer_-_side 1
+    2300016: End
+    2300018: End 1
+    2300020: Face_Rail
+    2300022: Handle
+    2300024: ID182
+    2300026: ID204
+    2300028: ID59
+    2300030: ID67
+    2300032: ID85
+    2300034: ID93
+    2300036: Shelf
+    3300000: Back
+    3300002: Bottom
+    3300004: Button
+    3300006: Drawer_-_back
+    3300008: Drawer_-_bottom
+    3300010: Drawer_-_front
+    3300012: Drawer_-_side
+    3300014: Drawer_-_side 1
+    3300016: End
+    3300018: End 1
+    3300020: Face_Rail
+    3300022: Handle
+    3300024: ID182
+    3300026: ID204
+    3300028: ID59
+    3300030: ID67
+    3300032: ID85
+    3300034: ID93
+    3300036: Shelf
+    4300000: Bottom
+    4300002: Face_Rail
+    4300004: Back
+    4300006: Shelf
+    4300008: End
+    4300010: ID59
+    4300012: ID67
+    4300014: End
+    4300016: ID85
+    4300018: ID93
+    4300020: Handle
+    4300022: Drawer_-_back
+    4300024: Drawer_-_side
+    4300026: Drawer_-_side
+    4300028: Drawer_-_front
+    4300030: Drawer_-_bottom
+    4300032: ID182
+    4300034: Button
+    4300036: ID204
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

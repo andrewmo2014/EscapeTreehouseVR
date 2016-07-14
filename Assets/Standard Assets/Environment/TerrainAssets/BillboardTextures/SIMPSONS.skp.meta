@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 0b63a163850e1084b9f9bdd2af9fca93
+timeCreated: 1468473029
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 46aa808bcee52d61978f169bd864beee
+  longitude: -74.01251699029767
+  latitude: 40.71160375016086
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -6.8705597, y: 12.806194, z: -41.705902}
+      lookAt: {x: 694.0455, y: -215.36337, z: 951.00116}
+      up: {x: 0.10643711, y: 0.9828258, z: 0.15074684}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: grill_board
+    100002: grill_board 1
+    100004: grill_board 10
+    100006: grill_board 11
+    100008: grill_board 12
+    100010: grill_board 13
+    100012: grill_board 14
+    100014: grill_board 15
+    100016: grill_board 16
+    100018: grill_board 17
+    100020: grill_board 2
+    100022: grill_board 3
+    100024: grill_board 4
+    100026: grill_board 5
+    100028: grill_board 6
+    100030: grill_board 7
+    100032: grill_board 8
+    100034: grill_board 9
+    100036: grill_board_half
+    100038: grill_board_half 1
+    100040: grill_board_half 2
+    100042: grill_board_half 3
+    100044: grill_board_half 4
+    100046: grill_board_half 5
+    100048: grill_half
+    100050: grill_half 1
+    100052: grill_leg
+    100054: grill_leg 1
+    100056: grill_leg 2
+    100058: grill_leg 3
+    100060: grill_tank
+    100062: grill_tank 1
+    100064: grill_tank 2
+    100066: grill_tank 3
+    100068: grill_tank 4
+    100070: grill_tank 5
+    100072: grill_tank 6
+    100074: grill_tank 7
+    100076: Group 20
+    100078: Group 22
+    100080: Group 24
+    100082: Group 26
+    100084: Group 28
+    100086: Group 30
+    100088: Group 32
+    100090: Group 34
+    100092: Group 36
+    100094: Group 38
+    100096: Image 10
+    100098: Image 11
+    100100: Image 12
+    100102: Image 13
+    100104: Image 14
+    100106: Image 15
+    100108: Image 16
+    100110: Image 17
+    100112: Image 2
+    100114: Image 3
+    100116: Image 4
+    100118: Image 5
+    100120: Image 6
+    100122: Image 7
+    100124: Image 8
+    100126: Image 9
+    100128: Rope
+    100130: Rope 1
+    100132: Rope 1_MeshPart0
+    100134: Rope 1_MeshPart1
+    100136: Rope_MeshPart0
+    100138: Rope_MeshPart1
+    100140: RopeLadder
+    100142: //RootNode
+    100144: skeBE
+    100146: skeC0
+    100148: Step
+    100150: Step 1
+    100152: Step 2
+    100154: Step 3
+    100156: Step 4
+    100158: Tree
+    400000: grill_board
+    400002: grill_board 1
+    400004: grill_board 10
+    400006: grill_board 11
+    400008: grill_board 12
+    400010: grill_board 13
+    400012: grill_board 14
+    400014: grill_board 15
+    400016: grill_board 16
+    400018: grill_board 17
+    400020: grill_board 2
+    400022: grill_board 3
+    400024: grill_board 4
+    400026: grill_board 5
+    400028: grill_board 6
+    400030: grill_board 7
+    400032: grill_board 8
+    400034: grill_board 9
+    400036: grill_board_half
+    400038: grill_board_half 1
+    400040: grill_board_half 2
+    400042: grill_board_half 3
+    400044: grill_board_half 4
+    400046: grill_board_half 5
+    400048: grill_half
+    400050: grill_half 1
+    400052: grill_leg
+    400054: grill_leg 1
+    400056: grill_leg 2
+    400058: grill_leg 3
+    400060: grill_tank
+    400062: grill_tank 1
+    400064: grill_tank 2
+    400066: grill_tank 3
+    400068: grill_tank 4
+    400070: grill_tank 5
+    400072: grill_tank 6
+    400074: grill_tank 7
+    400076: Group 20
+    400078: Group 22
+    400080: Group 24
+    400082: Group 26
+    400084: Group 28
+    400086: Group 30
+    400088: Group 32
+    400090: Group 34
+    400092: Group 36
+    400094: Group 38
+    400096: Image 10
+    400098: Image 11
+    400100: Image 12
+    400102: Image 13
+    400104: Image 14
+    400106: Image 15
+    400108: Image 16
+    400110: Image 17
+    400112: Image 2
+    400114: Image 3
+    400116: Image 4
+    400118: Image 5
+    400120: Image 6
+    400122: Image 7
+    400124: Image 8
+    400126: Image 9
+    400128: Rope
+    400130: Rope 1
+    400132: Rope 1_MeshPart0
+    400134: Rope 1_MeshPart1
+    400136: Rope_MeshPart0
+    400138: Rope_MeshPart1
+    400140: RopeLadder
+    400142: //RootNode
+    400144: skeBE
+    400146: skeC0
+    400148: Step
+    400150: Step 1
+    400152: Step 2
+    400154: Step 3
+    400156: Step 4
+    400158: Tree
+    2300000: grill_board
+    2300002: grill_board 1
+    2300004: grill_board 10
+    2300006: grill_board 11
+    2300008: grill_board 12
+    2300010: grill_board 13
+    2300012: grill_board 14
+    2300014: grill_board 15
+    2300016: grill_board 16
+    2300018: grill_board 17
+    2300020: grill_board 2
+    2300022: grill_board 3
+    2300024: grill_board 4
+    2300026: grill_board 5
+    2300028: grill_board 6
+    2300030: grill_board 7
+    2300032: grill_board 8
+    2300034: grill_board 9
+    2300036: grill_board_half
+    2300038: grill_board_half 1
+    2300040: grill_board_half 2
+    2300042: grill_board_half 3
+    2300044: grill_board_half 4
+    2300046: grill_board_half 5
+    2300048: grill_half
+    2300050: grill_half 1
+    2300052: grill_leg
+    2300054: grill_leg 1
+    2300056: grill_leg 2
+    2300058: grill_leg 3
+    2300060: grill_tank
+    2300062: grill_tank 1
+    2300064: grill_tank 2
+    2300066: grill_tank 3
+    2300068: grill_tank 4
+    2300070: grill_tank 5
+    2300072: grill_tank 6
+    2300074: grill_tank 7
+    2300076: Group 20
+    2300078: Group 22
+    2300080: Group 24
+    2300082: Group 26
+    2300084: Group 28
+    2300086: Group 30
+    2300088: Group 32
+    2300090: Group 34
+    2300092: Group 36
+    2300094: Group 38
+    2300096: Image 10
+    2300098: Image 11
+    2300100: Image 12
+    2300102: Image 13
+    2300104: Image 14
+    2300106: Image 15
+    2300108: Image 16
+    2300110: Image 17
+    2300112: Image 2
+    2300114: Image 3
+    2300116: Image 4
+    2300118: Image 5
+    2300120: Image 6
+    2300122: Image 7
+    2300124: Image 8
+    2300126: Image 9
+    2300128: Rope 1_MeshPart0
+    2300130: Rope 1_MeshPart1
+    2300132: Rope_MeshPart0
+    2300134: Rope_MeshPart1
+    2300136: //RootNode
+    2300138: skeBE
+    2300140: Step
+    2300142: Step 1
+    2300144: Step 2
+    2300146: Step 3
+    2300148: Step 4
+    2300150: Tree
+    3300000: grill_board
+    3300002: grill_board 1
+    3300004: grill_board 10
+    3300006: grill_board 11
+    3300008: grill_board 12
+    3300010: grill_board 13
+    3300012: grill_board 14
+    3300014: grill_board 15
+    3300016: grill_board 16
+    3300018: grill_board 17
+    3300020: grill_board 2
+    3300022: grill_board 3
+    3300024: grill_board 4
+    3300026: grill_board 5
+    3300028: grill_board 6
+    3300030: grill_board 7
+    3300032: grill_board 8
+    3300034: grill_board 9
+    3300036: grill_board_half
+    3300038: grill_board_half 1
+    3300040: grill_board_half 2
+    3300042: grill_board_half 3
+    3300044: grill_board_half 4
+    3300046: grill_board_half 5
+    3300048: grill_half
+    3300050: grill_half 1
+    3300052: grill_leg
+    3300054: grill_leg 1
+    3300056: grill_leg 2
+    3300058: grill_leg 3
+    3300060: grill_tank
+    3300062: grill_tank 1
+    3300064: grill_tank 2
+    3300066: grill_tank 3
+    3300068: grill_tank 4
+    3300070: grill_tank 5
+    3300072: grill_tank 6
+    3300074: grill_tank 7
+    3300076: Group 20
+    3300078: Group 22
+    3300080: Group 24
+    3300082: Group 26
+    3300084: Group 28
+    3300086: Group 30
+    3300088: Group 32
+    3300090: Group 34
+    3300092: Group 36
+    3300094: Group 38
+    3300096: Image 10
+    3300098: Image 11
+    3300100: Image 12
+    3300102: Image 13
+    3300104: Image 14
+    3300106: Image 15
+    3300108: Image 16
+    3300110: Image 17
+    3300112: Image 2
+    3300114: Image 3
+    3300116: Image 4
+    3300118: Image 5
+    3300120: Image 6
+    3300122: Image 7
+    3300124: Image 8
+    3300126: Image 9
+    3300128: Rope 1_MeshPart0
+    3300130: Rope 1_MeshPart1
+    3300132: Rope_MeshPart0
+    3300134: Rope_MeshPart1
+    3300136: //RootNode
+    3300138: skeBE
+    3300140: Step
+    3300142: Step 1
+    3300144: Step 2
+    3300146: Step 3
+    3300148: Step 4
+    3300150: Tree
+    4300000: Mesh SIMPSONS
+    4300002: Mesh SIMPSONS
+    4300004: Mesh SIMPSONS
+    4300006: Mesh SIMPSONS
+    4300008: Mesh SIMPSONS
+    4300010: Mesh SIMPSONS
+    4300012: Mesh SIMPSONS
+    4300014: Mesh SIMPSONS
+    4300016: Mesh SIMPSONS
+    4300018: Mesh SIMPSONS
+    4300020: Mesh SIMPSONS
+    4300022: Mesh SIMPSONS
+    4300024: Mesh SIMPSONS
+    4300026: Mesh SIMPSONS
+    4300028: Mesh SIMPSONS
+    4300030: Mesh SIMPSONS
+    4300032: Mesh SIMPSONS
+    4300034: Mesh skeBE
+    4300036: Mesh Group 20
+    4300038: Mesh Group 22
+    4300040: Mesh Group 24
+    4300042: Mesh Group 26
+    4300044: Mesh Group 28
+    4300046: Mesh Group 36
+    4300048: Mesh Group 38
+    4300050: Mesh Tree
+    4300052: Mesh Step
+    4300054: Mesh Rope_MeshPart0
+    4300056: Mesh Rope_MeshPart1
+    4300058: Mesh grill_half
+    4300060: Mesh grill_board
+    4300062: Mesh grill_leg
+    4300064: Mesh grill_board_half
+    4300066: Mesh grill_tank
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

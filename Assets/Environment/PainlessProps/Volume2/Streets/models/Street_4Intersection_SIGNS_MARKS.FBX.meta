@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: dc591ff7973e35a4db3e6892264b2b62
+timeCreated: 1452021410
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Stop_Sign
+    100002: Stop_Sign 1
+    100004: Stop_Sign 2
+    100006: Stop_Sign 3
+    100008: Street_4Intersection
+    100010: //RootNode
+    100012: Street_Crosswalk_Mark
+    100014: Street_Crosswalk_Mark001
+    100016: Street_Crosswalk_Mark002
+    100018: Street_Crosswalk_Mark003
+    100020: Street_Stop_Mark
+    100022: Street_Stop_Mark001
+    100024: Street_Stop_Mark002
+    100026: Street_Stop_Mark003
+    400000: Stop_Sign
+    400002: Stop_Sign 1
+    400004: Stop_Sign 2
+    400006: Stop_Sign 3
+    400008: Street_4Intersection
+    400010: //RootNode
+    400012: Street_Crosswalk_Mark
+    400014: Street_Crosswalk_Mark001
+    400016: Street_Crosswalk_Mark002
+    400018: Street_Crosswalk_Mark003
+    400020: Street_Stop_Mark
+    400022: Street_Stop_Mark001
+    400024: Street_Stop_Mark002
+    400026: Street_Stop_Mark003
+    2300000: Stop_Sign
+    2300002: Stop_Sign 1
+    2300004: Stop_Sign 2
+    2300006: Stop_Sign 3
+    2300008: Street_4Intersection
+    2300010: Street_Crosswalk_Mark
+    2300012: Street_Crosswalk_Mark001
+    2300014: Street_Crosswalk_Mark002
+    2300016: Street_Crosswalk_Mark003
+    2300018: Street_Stop_Mark
+    2300020: Street_Stop_Mark001
+    2300022: Street_Stop_Mark002
+    2300024: Street_Stop_Mark003
+    3300000: Stop_Sign
+    3300002: Stop_Sign 1
+    3300004: Stop_Sign 2
+    3300006: Stop_Sign 3
+    3300008: Street_4Intersection
+    3300010: Street_Crosswalk_Mark
+    3300012: Street_Crosswalk_Mark001
+    3300014: Street_Crosswalk_Mark002
+    3300016: Street_Crosswalk_Mark003
+    3300018: Street_Stop_Mark
+    3300020: Street_Stop_Mark001
+    3300022: Street_Stop_Mark002
+    3300024: Street_Stop_Mark003
+    4300000: Street_4Intersection
+    4300002: Street_Crosswalk_Mark
+    4300004: Street_Stop_Mark
+    4300006: Street_Crosswalk_Mark001
+    4300008: Street_Crosswalk_Mark002
+    4300010: Street_Crosswalk_Mark003
+    4300012: Street_Stop_Mark001
+    4300014: Street_Stop_Mark002
+    4300016: Street_Stop_Mark003
+    4300018: Stop_Sign
+    4300020: Stop_Sign
+    4300022: Stop_Sign
+    4300024: Stop_Sign
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8773999
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

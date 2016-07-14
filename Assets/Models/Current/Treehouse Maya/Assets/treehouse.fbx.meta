@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 74f690033f5443d45a456b1de287795c
+timeCreated: 1468460677
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_2
+    100006: group_3
+    100008: group_4
+    100010: group_5
+    100012: group_6
+    100014: group_7
+    100016: group_8
+    100018: ID163
+    100020: ID163 1
+    100022: ID163 2
+    100024: ID163 3
+    100026: ID163 4
+    100028: ID171
+    100030: ID171 1
+    100032: ID171 2
+    100034: ID171 3
+    100036: ID171 4
+    100038: ID195
+    100040: ID195 1
+    100042: ID203
+    100044: ID203 1
+    100046: ID220
+    100048: ID237
+    100050: ID245
+    100052: ID253
+    100054: ID261
+    100056: ID269
+    100058: ID277
+    100060: ID285
+    100062: ID293
+    100064: ID301
+    100066: ID309
+    100068: ID317
+    100070: ID345
+    100072: ID355
+    100074: ID363
+    100076: ID371
+    100078: ID379
+    100080: ID387
+    100082: ID395
+    100084: ID403
+    100086: ID411
+    100088: ID419
+    100090: ID427
+    100092: ID435
+    100094: instance_0
+    100096: instance_2
+    100098: instance_3
+    100100: instance_4
+    100102: instance_5
+    100104: instance_6
+    100106: instance_7
+    100108: instance_8
+    100110: instance_9
+    100112: Rope
+    100114: Rope 1
+    100116: RopeLadder
+    100118: skeBE
+    100120: Step
+    100122: Step 1
+    100124: Step 2
+    100126: Step 3
+    100128: Step 4
+    100130: //RootNode
+    400000: group_0
+    400002: group_1
+    400004: group_2
+    400006: group_3
+    400008: group_4
+    400010: group_5
+    400012: group_6
+    400014: group_7
+    400016: group_8
+    400018: ID163
+    400020: ID163 1
+    400022: ID163 2
+    400024: ID163 3
+    400026: ID163 4
+    400028: ID171
+    400030: ID171 1
+    400032: ID171 2
+    400034: ID171 3
+    400036: ID171 4
+    400038: ID195
+    400040: ID195 1
+    400042: ID203
+    400044: ID203 1
+    400046: ID220
+    400048: ID237
+    400050: ID245
+    400052: ID253
+    400054: ID261
+    400056: ID269
+    400058: ID277
+    400060: ID285
+    400062: ID293
+    400064: ID301
+    400066: ID309
+    400068: ID317
+    400070: ID345
+    400072: ID355
+    400074: ID363
+    400076: ID371
+    400078: ID379
+    400080: ID387
+    400082: ID395
+    400084: ID403
+    400086: ID411
+    400088: ID419
+    400090: ID427
+    400092: ID435
+    400094: instance_0
+    400096: instance_2
+    400098: instance_3
+    400100: instance_4
+    400102: instance_5
+    400104: instance_6
+    400106: instance_7
+    400108: instance_8
+    400110: instance_9
+    400112: Rope
+    400114: Rope 1
+    400116: RopeLadder
+    400118: skeBE
+    400120: Step
+    400122: Step 1
+    400124: Step 2
+    400126: Step 3
+    400128: Step 4
+    400130: //RootNode
+    2300000: group_0
+    2300002: group_1
+    2300004: group_2
+    2300006: group_3
+    2300008: group_4
+    2300010: group_5
+    2300012: group_6
+    2300014: group_7
+    2300016: group_8
+    2300018: ID163
+    2300020: ID163 1
+    2300022: ID163 2
+    2300024: ID163 3
+    2300026: ID163 4
+    2300028: ID171
+    2300030: ID171 1
+    2300032: ID171 2
+    2300034: ID171 3
+    2300036: ID171 4
+    2300038: ID195
+    2300040: ID195 1
+    2300042: ID203
+    2300044: ID203 1
+    2300046: ID237
+    2300048: ID245
+    2300050: ID253
+    2300052: ID261
+    2300054: ID269
+    2300056: ID277
+    2300058: ID285
+    2300060: ID293
+    2300062: ID301
+    2300064: ID309
+    2300066: ID317
+    2300068: ID345
+    2300070: ID355
+    2300072: ID363
+    2300074: ID371
+    2300076: ID379
+    2300078: ID387
+    2300080: ID395
+    2300082: ID403
+    2300084: ID411
+    2300086: ID419
+    2300088: ID427
+    2300090: Rope
+    2300092: Rope 1
+    2300094: skeBE
+    2300096: Step
+    2300098: Step 1
+    2300100: Step 2
+    2300102: Step 3
+    2300104: Step 4
+    2300106: //RootNode
+    3300000: group_0
+    3300002: group_1
+    3300004: group_2
+    3300006: group_3
+    3300008: group_4
+    3300010: group_5
+    3300012: group_6
+    3300014: group_7
+    3300016: group_8
+    3300018: ID163
+    3300020: ID163 1
+    3300022: ID163 2
+    3300024: ID163 3
+    3300026: ID163 4
+    3300028: ID171
+    3300030: ID171 1
+    3300032: ID171 2
+    3300034: ID171 3
+    3300036: ID171 4
+    3300038: ID195
+    3300040: ID195 1
+    3300042: ID203
+    3300044: ID203 1
+    3300046: ID237
+    3300048: ID245
+    3300050: ID253
+    3300052: ID261
+    3300054: ID269
+    3300056: ID277
+    3300058: ID285
+    3300060: ID293
+    3300062: ID301
+    3300064: ID309
+    3300066: ID317
+    3300068: ID345
+    3300070: ID355
+    3300072: ID363
+    3300074: ID371
+    3300076: ID379
+    3300078: ID387
+    3300080: ID395
+    3300082: ID403
+    3300084: ID411
+    3300086: ID419
+    3300088: ID427
+    3300090: Rope
+    3300092: Rope 1
+    3300094: skeBE
+    3300096: Step
+    3300098: Step 1
+    3300100: Step 2
+    3300102: Step 3
+    3300104: Step 4
+    3300106: //RootNode
+    4300000: SketchUp
+    4300002: skeBE
+    4300004: ID237
+    4300006: ID245
+    4300008: ID253
+    4300010: ID261
+    4300012: ID269
+    4300014: ID277
+    4300016: ID285
+    4300018: ID293
+    4300020: ID301
+    4300022: ID309
+    4300024: ID317
+    4300026: ID345
+    4300028: ID355
+    4300030: ID363
+    4300032: ID371
+    4300034: ID379
+    4300036: ID387
+    4300038: ID395
+    4300040: ID403
+    4300042: ID411
+    4300044: ID419
+    4300046: ID427
+    4300048: group_0
+    4300050: group_1
+    4300052: group_2
+    4300054: group_3
+    4300056: group_4
+    4300058: group_5
+    4300060: group_6
+    4300062: group_7
+    4300064: group_8
+    4300066: Step
+    4300068: ID163
+    4300070: ID171
+    4300072: Step
+    4300074: ID163
+    4300076: ID171
+    4300078: Step
+    4300080: ID163
+    4300082: ID171
+    4300084: Rope
+    4300086: ID195
+    4300088: ID203
+    4300090: Step
+    4300092: ID163
+    4300094: ID171
+    4300096: Step
+    4300098: ID163
+    4300100: ID171
+    4300102: Rope
+    4300104: ID195
+    4300106: ID203
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

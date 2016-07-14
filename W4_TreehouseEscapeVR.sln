@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4_TreehouseEscapeVR.CSharp.Plugins", "W4_TreehouseEscapeVR.CSharp.Plugins.csproj", "{DDD027D7-7653-79AB-EC14-953515DA0595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4_TreehouseEscapeVR.CSharp", "W4_TreehouseEscapeVR.CSharp.csproj", "{C65F527F-0D54-DDCF-0F82-C19EB6FE42E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4_TreehouseEscapeVR.CSharp.Editor", "W4_TreehouseEscapeVR.CSharp.Editor.csproj", "{296F3E33-5210-2776-C039-853B868BF616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD027D7-7653-79AB-EC14-953515DA0595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD027D7-7653-79AB-EC14-953515DA0595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD027D7-7653-79AB-EC14-953515DA0595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD027D7-7653-79AB-EC14-953515DA0595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65F527F-0D54-DDCF-0F82-C19EB6FE42E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65F527F-0D54-DDCF-0F82-C19EB6FE42E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65F527F-0D54-DDCF-0F82-C19EB6FE42E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65F527F-0D54-DDCF-0F82-C19EB6FE42E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296F3E33-5210-2776-C039-853B868BF616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F3E33-5210-2776-C039-853B868BF616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F3E33-5210-2776-C039-853B868BF616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F3E33-5210-2776-C039-853B868BF616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
