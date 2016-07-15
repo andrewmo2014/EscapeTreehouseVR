@@ -144,7 +144,7 @@ GameObject:
   - 4: {fileID: 406400}
   - 33: {fileID: 3314928}
   - 23: {fileID: 2325186}
-  - 95: {fileID: 9549780}
+  - 95: {fileID: 9529554}
   m_Layer: 0
   m_Name: LockAndKey
   m_TagString: Untagged
@@ -242,8 +242,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 143826}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.0018478783, y: 0.0018478773, z: 0.0018478773}
+  m_LocalPosition: {x: 0.23, y: 0.0093, z: 1.0259}
+  m_LocalScale: {x: 0.00087496545, y: 0.0008749649, z: 0.0008749649}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
   m_Children:
   - {fileID: 468026}
@@ -324,7 +324,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 195482}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
@@ -833,7 +833,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 133490}
   m_Mesh: {fileID: 4300004, guid: 3a4af6717cae74f488d26d63d82f9782, type: 3}
---- !u!95 &9549780
+--- !u!95 &9529554
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -841,8 +841,8 @@ Animator:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 143826}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 3a4af6717cae74f488d26d63d82f9782, type: 3}
-  m_Controller: {fileID: 0}
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9f1064e08c7ecc84dabbd222777bdbc3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
