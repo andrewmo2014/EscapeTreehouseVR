@@ -25,7 +25,6 @@ public class GrabObject : MonoBehaviour
     {
         if (col.CompareTag("key"))
         {
-            Debug.Log("Entered Key");
             //Grab Object
             if (device.GetPressDown(SteamVR_Controller.ButtonMask.Trigger))
             {
