@@ -145,7 +145,7 @@ Material:
       data:
         first:
           name: _OcclusionStrength
-        second: 0.89
+        second: 1
       data:
         first:
           name: _DetailNormalMapScale

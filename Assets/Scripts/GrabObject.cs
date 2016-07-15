@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class GrabObject : MonoBehaviour
 {
@@ -19,11 +20,16 @@ public class GrabObject : MonoBehaviour
     void Update()
     {
         device = SteamVR_Controller.Input((int)trackedObject.index);
+
+        if (device.GetPressDown(SteamVR_Controller.ButtonMask.ApplicationMenu))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 
     void OnTriggerStay(Collider col)
     {
-        if (col.CompareTag("key"))
+        if (col.CompareTag("key") || col.CompareTag("item") )
         {
             //Grab Object
             if (device.GetPressDown(SteamVR_Controller.ButtonMask.Trigger))

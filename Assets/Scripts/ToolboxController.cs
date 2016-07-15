@@ -17,7 +17,7 @@ public class ToolboxController : MonoBehaviour {
     private Vector3 origin;
     private Vector3 endPos;
 
-    public float targetYPos;
+    public Transform targetPos;
     public float speed = 20.0f;
 
     public GameObject item;
@@ -33,7 +33,7 @@ public class ToolboxController : MonoBehaviour {
         isPlaying = false;
         currentState = ToolboxState.Idle;
         origin = transform.position;
-        endPos = new Vector3(origin.x, targetYPos, origin.z);
+        endPos = new Vector3(origin.x, targetPos.position.y, origin.z);
 
 	}
 	
